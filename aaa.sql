@@ -1,1 +1,1 @@
-select * from TEST
+select * from TEST where Nombre='Carlos'
